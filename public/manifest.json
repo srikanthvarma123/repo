@@ -1,0 +1,15 @@
+{
+  "short_name": "AIMS360_Runway",
+  "name": "AIMS360 Adminstration",
+  "icons": [
+    {
+      "src": "./assets/icons/icon-square.png",
+      "sizes": "100x100",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

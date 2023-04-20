@@ -1,0 +1,8 @@
+@media screen and (max-width: 990px)  {
+    .resized {
+        font-size: 1.2rem !important;
+    }
+  }
+.resized {
+    font-size: 2.2rem;
+}
